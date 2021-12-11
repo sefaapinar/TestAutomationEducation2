@@ -1,0 +1,19 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-standalone": "^8.0.8",
+    "webdriverio": "^6.12.1"
+  },
+  "dependencies": {
+    "codeceptjs": "^3.2.2"
+  }
+}
